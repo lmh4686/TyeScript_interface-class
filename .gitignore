@@ -3,3 +3,4 @@ index.html
 dist
 .parcel-cache
 package-lock.json
+.env
